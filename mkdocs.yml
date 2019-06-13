@@ -1,0 +1,5 @@
+site_name: MkLorum
+nav:
+    - Giới thiệu: index.md
+    - About: about.md
+theme: readthedocs
