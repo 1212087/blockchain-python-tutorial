@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Ch\u00e0o m\u1eebng \u0111\u1ebfn Blockchain\n\n\nSau \u0111\u00e2y l\u00e0 c\u00e1c b\u01b0\u1edbc c\u00e1i \u0111\u1eb7t cho m\u1ea1ng blockchain \n\n\nC\u00e0i \u0111\u1eb7t\n\n\n\n\ngit clone https://github.com/1212087/blockchain-python-tutorial\n - K\u00e9o d\u1ef1 \u00e1n t\u1eeb git.\n\n\nmkdir server/chaindata\n - T\u1ea1o folder chaindata.\n\n\nmkdir transaction/transaction_wait\n - T\u1ea1o folder transaciton_wait.\n\n\npip install flask\n - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n flask .\n\n\npip install flask_cors\n - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n flask_cors. \n\n\npip install pycryptodome\n - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n pycryptodome.\n\n\npip install base58\n - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n base58.\n\n\n\n\npip install apscheduler\n - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n apscheduler.\n Project layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#chao-mung-en-blockchain",
+            "text": "Sau \u0111\u00e2y l\u00e0 c\u00e1c b\u01b0\u1edbc c\u00e1i \u0111\u1eb7t cho m\u1ea1ng blockchain",
+            "title": "Ch\u00e0o m\u1eebng \u0111\u1ebfn Blockchain"
+        },
+        {
+            "location": "/#cai-at",
+            "text": "git clone https://github.com/1212087/blockchain-python-tutorial  - K\u00e9o d\u1ef1 \u00e1n t\u1eeb git.  mkdir server/chaindata  - T\u1ea1o folder chaindata.  mkdir transaction/transaction_wait  - T\u1ea1o folder transaciton_wait.  pip install flask  - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n flask .  pip install flask_cors  - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n flask_cors.   pip install pycryptodome  - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n pycryptodome.  pip install base58  - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n base58.   pip install apscheduler  - C\u00e0i \u0111\u1eb7t th\u01b0 vi\u1ec7n apscheduler.\n Project layout  mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "C\u00e0i \u0111\u1eb7t"
+        }
+    ]
+}
